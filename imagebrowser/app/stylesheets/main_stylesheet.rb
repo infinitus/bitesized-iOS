@@ -6,15 +6,27 @@ class MainStylesheet < ApplicationStylesheet
   end
 
   def root_view(st)
+    st.background_color = color.gray
+  end
+
+  def search_label(st)
+    st.frame = {l: 10, t: 60, w: app_width - 20, h: 40} 
+    st.text = "Find"
+    st.color = color.white
+    st.font = font.large
+  end
+
+  def query(st)
+    st.frame = {l: 10, t: 110, w: app_width - 20, h: 40} 
     st.background_color = color.white
+    st.view.font = font.large 
   end
 
-  def hello_world(st)
-    st.frame = {top: 100, width: 200, height: 18, centered: :horizontal}
-    st.text_alignment = :center
-    st.color = color.battleship_gray
-    st.font = font.medium
-    st.text = 'Hello World'
+  def submit_button(st)
+    st.frame = {l: 10, t: 160, w: app_width - 20, h: 40} 
+    st.background_color = color.blue
+    st.text = "Go"
+    st.font = font.large
+    st.color = color.white
   end
-
 end
