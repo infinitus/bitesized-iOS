@@ -1,0 +1,1 @@
+A DuckDuckGo wrapper.
