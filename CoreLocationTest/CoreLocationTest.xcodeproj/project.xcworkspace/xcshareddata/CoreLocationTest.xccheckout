@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30AE21F6-5091-49D5-B652-0E856322A87A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreLocationTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA2C9A6B512A06529FA7F8FB086E0B01BF30A2BD</key>
+		<string>github.com:infinitus/bitesized-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreLocationTest/CoreLocationTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA2C9A6B512A06529FA7F8FB086E0B01BF30A2BD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:infinitus/bitesized-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA2C9A6B512A06529FA7F8FB086E0B01BF30A2BD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA2C9A6B512A06529FA7F8FB086E0B01BF30A2BD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>bitesized-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
